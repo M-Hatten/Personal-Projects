@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<Head>
+<meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Madeline Hatten</title>
+    <!-- The style.css file allows you to change the look of your web pages.
+         If you include the next line in all your web pages, they will all share the same look.
+         This makes it easier to make new pages for your site. -->
+    <link href="style.css" rel="stylesheet" type="text/css" media="all">
+</Head>
+<html>
+  <body>
+    <div class="wrapper">
+      <!-- Header -->
+      <div class="header">
+        <div class="marquee">
+          <p>🚧 This site is still under construction! 🚧</p>
+        </div>
+    <div class="header-shadow"></div>
+    </div>
+
+    <!-- Title stuffs-->
+    <div class="title">
+      <div class="box">
+      <h1>Welcome to my main page!</h1>
+    </div>
+    </div>
+
+    <!-- Navigation links -->
+    <div class="links">
+      <div class="box">
+      <div class="link"><a href="#">Home</a></div>
+      <div class="link"><a href="#about">About Me</a></div>
+      <div class="link"><a href="#projects">Projects</a></div>
+      <div class="link"><a href="#contact">Contact</a></div>
+      <div class="link"><a href="#resume">Resume</a></div>
+    </div>
+  </div>
+    
+<!-- Main Content Wrapper -->
+
+
+  <!-- Main Content -->
+  <div class="main">
+      <div class="box">
+          <h2 id="about">About Me</h2>
+          <div class="inner">
+            <p>Hello! I'm Maddie. Welcome to my website!</p>
+            <p>I'm currently a student at Louisiana Tech University and working towards a Bachelor's in Computer Science.</p>
+            <p>Here I store some of my favorite projects for prospective employers like you to see. This is not an all inclusive list of everything I've done during my studies, but it's a good example of what I'm capable of!</p>
+          </div>
+      </div>
+
+      <div class="box">
+          <h2 id="projects">Projects</h2>
+          <div class="inner">
+                <ul>
+                  <li><a href="https://m-hatten.neocities.org/Unfinished%20_Projects/Cowboy_Dictionary">Cowboy Dictionary</a></li>
+                  <li><a href="https://m-hatten.neocities.org/Unfinished%20_Projects/LNP">Late Night Pizza - Video Game</a></li>
+                  <li>Game of Life Remastered</li>
+                </ul>
+          </div>
+      </div>
+      
+      <div class="box">
+        <section id="interests" class="inner">
+          <h2>Interests:</h2>
+          <div class="inner">
+            <ul>
+              <li>Coding (obviously)</li>
+              <li>Crocheting</li>
+              <li>Video games (making them and playing them)</li>
+              <li>Reading</li>
+              <li>Creative Writing</li>
+            </ul>
+          </div>
+        </section>
+      </div>
+            
+      <div class="box">
+          <h2 id="contact">Contact Me</h2>
+          <div class="inner">
+            <ul>
+              <li>Linkedin</li>
+              <li>GitHub</li>
+            </ul>
+          </div>
+      </div>
+
+      <div class="box">
+        <h2 id="resume">Resume</h2>
+        <div class="inner">
+          <p><a href="https://m-hatten.neocities.org/resume.pdf">If you want to see my full list of credentials, click here!</a></p>
+        </div>
+    </div>
+  </div>
+
+  
+</div>
+
+<!-- Footer -->
+<div class="footer">
+  <p   id="last-updated"></p>
+</div>
+
+<!-- Include this script at the end of the body -->
+<script>
+  // Get the "last updated" element
+  const lastUpdatedElement = document.getElementById('last-updated');
+
+  // Get the last modified date of the document
+  const lastModified = new Date(document.lastModified);
+
+  // Format the last modified date (e.g., "Last Updated: November 27, 2024")
+  const options = { year: 'numeric', month: 'long', day: 'numeric' };
+  const formattedDate = lastModified.toLocaleDateString(undefined, options);
+
+  // Update the footer content
+  lastUpdatedElement.textContent = `Last Updated (With love): ${formattedDate} by Madeline Hatten`;
+</script>
+</div>
+
+  </body>
+</html>

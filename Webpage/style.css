@@ -1,0 +1,212 @@
+/* CSS is how you can add style to your website, such as colors, fonts, and positioning of your
+   HTML content. To learn how to do something, just try searching Google for questions like
+   "how to change link color." */
+.marquee {
+    width: 100%;
+    font-size: 1.2em;
+    padding: 10px 0;
+    overflow: hidden;
+    position: relative;
+    top: 0;
+    z-index: 1000;
+    white-space: nowrap; 
+    display: flex;
+    align-items: center; 
+}
+
+.marquee p {
+    display: inline-block;
+    padding-left: 10%;
+    animation: scroll-left 15s linear infinite; 
+}
+
+@keyframes scroll-left {
+    from {
+        transform: translateX(100%); 
+    }
+    to {
+        transform: translateX(-100%); 
+    }
+}
+
+body {
+  max-width: 1024px;
+  background-image: url('galaxy3.jpg');
+  background-color: #2774AE;
+  background-size: cover;
+  color: #722F37; /* Maroon text */
+  font-family: 'Courier New', monospace;
+  margin: auto;
+  padding: 16px;
+  }
+
+center {
+  text-align: center;
+  }
+
+.wrapper {
+  width: 1150px;
+    margin: 0 auto;
+    top: 0;
+    margin-top: -10px;
+    border-left: 0px solid #12282f;
+    border-right: 0px solid #12282f;  
+    margin-bottom: -10px;
+  }
+
+.header, .footer {
+  height: 85px;
+  overflow: hidden;
+  background: linear-gradient(rgb(0,0,0,0.1),rgb(0,0,0,0.1)), url("stars.jpeg"); /*This is the image in the header and footer. Replace it with your own!*/
+  background-size:cover;
+  }
+
+  /*Big title at the top of the page.*/  
+.title {
+  padding: 5px;
+  padding-top: 3px;
+  padding-bottom: 5px;
+  }
+    
+  /*Override default margins/padding for headings.*/
+.title h1, .title h2, .title h3 {
+  padding:0;
+  margin: 0;
+  }
+  
+  /*Container for top row of links.*/
+.links {
+  padding: 5px;
+  padding-top: 2px;
+  padding-bottom: 5px;
+  }
+  
+.link {
+  text-align: center;
+  display: inline-block;
+  list-style-type: none;
+  float: none;
+  font-weight: bold;
+  font-size: 1.16em;
+  padding: 5px;
+  margin-right: 10px;
+  margin-left: 10px;
+  border: 0px solid red;
+  }
+
+a:link {
+  color: #722F37;  
+  text-decoration: none;
+  }
+        
+a:visited {
+  color: #B27233;
+  }
+      
+/*These three classes are just for defining the boundaries and size of the main and sidebar columns. Most fancy styling goes in the 'box' class.*/
+.main, .sidebar-right {
+  display: inline-block;
+  }
+        
+.sidebar-left, .sidebar-right {
+  width: 200px;
+  position: absolute;
+  top: 0;
+  }
+      
+.sidebar-left {
+   margin-left: 10px;
+  }
+        
+.main {
+  margin-left: 220px;
+  width: 710px;
+  }
+        
+.sidebar-right {
+  margin-right: 10px;
+  margin-left: 10px;
+  }
+
+/*Box used for individual sections in the sidebar, center column, etc.*/
+.box {  
+  padding: 5px 10px 0px 10px;
+  background: #FADA5E;
+  color: #722F37; /* Green text */
+  border-top: 5px solid #F1B42F; 
+  border-bottom: 5px solid #F1B42F;
+  border-left: 5px solid #F1B42F; 
+  border-right: 5px solid #F1B42F;
+  margin: 10px 0px 15px 0px;
+  }
+  
+/*Prevent overflow of large images in main text areas.*/
+.box img {
+  max-width: 100%;
+  height: auto;
+  }
+
+.inner {
+    
+  }
+
+  @media(max-width:1180px) {
+    .wrapper {
+      width: calc(440px + 50vw);
+      }
+    .main {
+      width: 50vw;
+      }
+    }
+    
+  @media(max-width:910px) {
+    .wrapper {
+      width: calc(360px + 52vw);
+      }
+    .sidebar-left, .sidebar-right {
+      width: 160px;
+      }
+    .main {
+      margin-left: 180px;
+      width: 52vw;
+      }
+    }
+    
+  /* General body styling */
+  @media (max-width: 600px) {
+    /* Wizard styling for text wrap-around on mobile */
+    .wizard {
+        float: left;
+        width: 40%;
+        max-width: 150px;
+        margin: 0 10px 10px 0;
+    }
+  
+    .content {
+        text-align: left;
+        padding: 10px;
+    }
+  }
+  /* Mobile compatibility. Puts everything into a standard vertical layout. */
+  @media(orientation:portrait) {
+    .wrapper {
+      width: 96vw;
+      margin: 0 auto;
+      padding:0;
+      position: relative;
+      }
+    .wrapper-2 {
+      width: 94vw;
+      margin: 0 auto;
+      padding:0;
+      position: relative;
+      }
+    .sidebar-left, .main, .sidebar-right {
+      position: relative;
+      width: 92vw;
+      margin: 0.25rem 1vw;
+      }
+    .sidebar-left, .sidebar-right {
+      font-size: 0.95em;
+      }
+    }
