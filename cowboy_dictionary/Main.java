@@ -58,7 +58,7 @@
             changeState(DictionaryState.TERM_SEARCH);
         }
         else{
-            System.out.println("Please select a proper option, bozo!");
+            System.out.println("Please select a proper option!");
         }
         return true;
     }
@@ -70,6 +70,8 @@
         catch (FileNotFoundException e){
             System.out.println("File not found :(");
         }
+
+        return true;
     }
     private boolean searchGen(){}
     private boolean searchTerm(){}
