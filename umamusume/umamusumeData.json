@@ -205,5 +205,14 @@
         "Easiness Tier": "S",
         "Overall Tier": "A",
         "Veteran Score": "B"
+    },
+    "Tokai Teio (Peak Joy)": {
+        "Track Proficiencies": "Turf",
+        "Distance Proficiencies": "Medium",
+        "Style Proficiencies": "Pace",
+        "Team Trials Tier": "S",
+        "Easiness Tier": "A",
+        "Overall Tier": "A",
+        "Veteran Score": ""
     }
 }
