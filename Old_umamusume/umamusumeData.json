@@ -8,7 +8,7 @@
         "Overall Tier": "B",
         "Veteran Score": "None"
     },
-    "Vodka (Wild Top Gear": {
+    "Vodka (Wild Top Gear)": {
         "Track Proficiencies": "Turf",
         "Distance Proficiencies": "Mile, Medium",
         "Style Proficiencies": "Late",
@@ -17,7 +17,7 @@
         "Overall Tier": "S",
         "Veteran Score": "B"
     },
-    "Super Creek (Murmuring Stream": {
+    "Super Creek (Murmuring Stream)": {
         "Track Proficiencies": "Turf",
         "Distance Proficiencies": "Medium, Long",
         "Style Proficiencies": "Pace",
@@ -212,6 +212,42 @@
         "Style Proficiencies": "Pace",
         "Team Trials Tier": "S",
         "Easiness Tier": "A",
+        "Overall Tier": "A",
+        "Veteran Score": ""
+    },
+    "Eishin Flash (Meisterschaft)": {
+        "Track Proficiencies": "Turf",
+        "Distance Proficiencies": "Medium, Long",
+        "Style Proficiencies": "Late",
+        "Team Trials Tier": "S",
+        "Easiness Tier": "S",
+        "Overall Tier": "A",
+        "Veteran Score": ""
+    },
+    "Maruzensky (Hot Summer Night)": {
+        "Track Proficiencies": "Turf",
+        "Distance Proficiencies": "Mile",
+        "Style Proficiencies": "Front",
+        "Team Trials Tier": "S+",
+        "Easiness Tier": "S",
+        "Overall Tier": "S+",
+        "Veteran Score": ""
+    },
+    "Manhatten Cafe (Creeping Shadow)": {
+        "Track Proficiencies": "Turf",
+        "Distance Proficiencies": "Long",
+        "Style Proficiencies": "Late",
+        "Team Trials Tier": "S",
+        "Easiness Tier": "A",
+        "Overall Tier": "S",
+        "Veteran Score": ""
+    },
+    "T.M. Opera O (O Sole Sou!)": {
+        "Track Proficiencies": "Turf",
+        "Distance Proficiencies": "Medium, Long",
+        "Style Proficiencies": "Pace, Late",
+        "Team Trials Tier": "A",
+        "Easiness Tier": "S",
         "Overall Tier": "A",
         "Veteran Score": ""
     }

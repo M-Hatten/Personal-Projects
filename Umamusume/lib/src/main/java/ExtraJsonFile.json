@@ -1,0 +1,236 @@
+{
+    "Winning Ticket (Get to Winning)": {
+        "Track Proficiencies": "Turf",
+        "Distance Proficiencies": "Medium",
+        "Style Proficiencies": "Late",
+        "Team Trials Tier": "B",
+        "Easiness Tier": "A",
+        "Overall Tier": "B",
+        "Veteran Score": "None"
+    },
+    "Vodka (Wild Top Gear)": {
+        "Track Proficiencies": "Turf",
+        "Distance Proficiencies": "Mile, Medium",
+        "Style Proficiencies": "Late",
+        "Team Trials Tier": "S+",
+        "Easiness Tier": "S",
+        "Overall Tier": "S",
+        "Veteran Score": "B"
+    },
+    "Super Creek (Murmuring Stream)": {
+        "Track Proficiencies": "Turf",
+        "Distance Proficiencies": "Medium, Long",
+        "Style Proficiencies": "Pace",
+        "Team Trials Tier": "A",
+        "Easiness Tier": "A",
+        "Overall Tier": "B",
+        "Veteran Score": "None"
+    },
+    "Special Week (Hoppn Happy Heart)": {
+        "Track Proficiencies": "Turf",
+        "Distance Proficiencies": "Medium, Long",
+        "Style Proficiencies": "Pace, Late",
+        "Team Trials Tier": "S",
+        "Easiness Tier": "A",
+        "Overall Tier": "A",
+        "Veteran Score": "B"
+    },
+    "Sakura Bakuushin O (Blossom in Learning)": {
+        "Track Proficiencies": "Turf",
+        "Distance Proficiencies": "Sprint",
+        "Style Proficiencies": "Front, Pace",
+        "Team Trials Tier": "S+",
+        "Easiness Tier": "S+",
+        "Overall Tier": "S+",
+        "Veteran Score": "B+"
+    },
+    "Rice Shower (Rosy Dreams)": {
+        "Track Proficiencies": "Turf",
+        "Distance Proficiencies": "Medium, Long",
+        "Style Proficiencies": "Pace",
+        "Team Trials Tier": "A",
+        "Easiness Tier": "B",
+        "Overall Tier": "A",
+        "Veteran Score": "C"
+    },
+    "Nice Nature (Poinsetta Ribbon)": {
+        "Track Proficiencies": "Turf",
+        "Distance Proficiencies": "Medium, Long",
+        "Style Proficiencies": "Late",
+        "Team Trials Tier": "A",
+        "Easiness Tier": "A",
+        "Overall Tier": "A",
+        "Veteran Score": "None"
+    },
+    "Mejiroo Ryan (Down the Line)": {
+        "Track Proficiencies": "Turf",
+        "Distance Proficiencies": "Medium",
+        "Style Proficiencies": "Pace, Late",
+        "Team Trials Tier": "S",
+        "Easiness Tier": "A",
+        "Overall Tier": "D+",
+        "Veteran Score": "A"
+    },
+    "Mejiro McQueen (Frontline Elegance)": {
+        "Track Proficiencies": "Turf",
+        "Distance Proficiencies": "Medium, Long",
+        "Style Proficiencies": "Pace",
+        "Team Trials Tier": "S+",
+        "Easiness Tier": "A",
+        "Overall Tier": "A",
+        "Veteran Score": "C"
+    },
+    "Meishi Doto (Turbulent Blue)": {
+        "Track Proficiencies": "Turf",
+        "Distance Proficiencies": "Medium, Long",
+        "Style Proficiencies": "Pace",
+        "Team Trials Tier": "S",
+        "Easiness Tier": "A",
+        "Overall Tier": "A",
+        "Veteran Score": "B"
+    },
+    "Mayano Top Gun (Scramble Zone)": {
+        "Track Proficiencies": "Turf",
+        "Distance Proficiencies": "Medium, Long",
+        "Style Proficiencies": "Front, Pace",
+        "Team Trials Tier": "S",
+        "Easiness Tier": "S",
+        "Overall Tier": "A",
+        "Veteran Score": "B"
+    },
+    "Matikanefukukitaru (Rising Fortune)": {
+        "Track Proficiencies": "Turf",
+        "Distance Proficiencies": "Medium, Long",
+        "Style Proficiencies": "Late",
+        "Team Trials Tier": "A",
+        "Easiness Tier": "A",
+        "Overall Tier": "B",
+        "Veteran Score": "None"
+    },
+    "King Halo (King of Emeralds)": {
+        "Track Proficiencies": "Turf",
+        "Distance Proficiencies": "Sprint",
+        "Style Proficiencies": "Late",
+        "Team Trials Tier": "A",
+        "Easiness Tier": "B",
+        "Overall Tier": "B",
+        "Veteran Score": "None"
+    },
+    "Hishi Amazon (Azure Amazon)": {
+        "Track Proficiencies": "Turf",
+        "Distance Proficiencies": "Mile, Medium",
+        "Style Proficiencies": "End",
+        "Team Trials Tier": "A",
+        "Easiness Tier": "A",
+        "Overall Tier": "A",
+        "Veteran Score": "B"
+    },
+    "Haru Urara (Bestest Prize)": {
+        "Track Proficiencies": "Dirt",
+        "Distance Proficiencies": "Sprint",
+        "Style Proficiencies": "Late",
+        "Team Trials Tier": "B",
+        "Easiness Tier": "S",
+        "Overall Tier": "B",
+        "Veteran Score": "C+"
+    },
+    "Grass Wonder (Stone-Piercing Blue)": {
+        "Track Proficiencies": "Turf",
+        "Distance Proficiencies": "Mile, Long",
+        "Style Proficiencies": "Pace, Late",
+        "Team Trials Tier": "A",
+        "Easiness Tier": "S",
+        "Overall Tier": "A",
+        "Veteran Score": "B"
+    },
+    "GoldShip (Red Strife)": {
+        "Track Proficiencies": "Turf",
+        "Distance Proficiencies": "Medium, Long",
+        "Style Proficiencies": "End",
+        "Team Trials Tier": "S+",
+        "Easiness Tier": "B",
+        "Overall Tier": "A",
+        "Veteran Score": "B"
+    },
+    "El Condor Pasa (Kukulkan Warrior)": {
+        "Track Proficiencies": "Turf",
+        "Distance Proficiencies": "Mile, Medium",
+        "Style Proficiencies": "Pace, Late",
+        "Team Trials Tier": "S",
+        "Easiness Tier": "S",
+        "Overall Tier": "S",
+        "Veteran Score": "B+"
+    },
+    "El Condor Pasa (El Numero 1)": {
+        "Track Proficiencies": "Turf",
+        "Distance Proficiencies": "Mile, Medium",
+        "Style Proficiencies": "Pace, Late",
+        "Team Trials Tier": "S",
+        "Easiness Tier": "S",
+        "Overall Tier": "S",
+        "Veteran Score": "C+"
+    },
+    "Daiwa Scarlet (Peak Blue)": {
+        "Track Proficiencies": "Turf",
+        "Distance Proficiencies": "Mile, Medium",
+        "Style Proficiencies": "Front, Pace",
+        "Team Trials Tier": "S", 
+        "Easiness Tier": "A",
+        "Overall Tier": "A",
+        "Veteran Score": "C+"
+    },
+    "Air Groove (Empress Road)": {
+        "Track Proficiencies": "Turf",
+        "Distance Proficiencies": "Medium",
+        "Style Proficiencies": "Pace, Late",
+        "Team Trials Tier": "A",
+        "Easiness Tier": "S",
+        "Overall Tier": "A",
+        "Veteran Score": "None"
+    },
+    "Air Groove (Quercus Civilis)": {
+        "Track Proficiencies": "Turf",
+        "Distance Proficiencies": "Medium",
+        "Style Proficiencies": "Pace, Late",
+        "Team Trials Tier": "S",
+        "Easiness Tier": "S",
+        "Overall Tier": "S",
+        "Veteran Score": "None"
+    },
+    "Agnes Tachyon (Tach-nology)": {
+        "Track Proficiencies": "Turf",
+        "Distance Proficiencies": "Medium",
+        "Style Proficiencies": "Pace",
+        "Team Trials Tier": "S+",
+        "Easiness Tier": "S",
+        "Overall Tier": "A",
+        "Veteran Score": "B"
+    },
+    "Tokai Teio (Peak Joy)": {
+        "Track Proficiencies": "Turf",
+        "Distance Proficiencies": "Medium",
+        "Style Proficiencies": "Pace",
+        "Team Trials Tier": "S",
+        "Easiness Tier": "A",
+        "Overall Tier": "A",
+        "Veteran Score": ""
+    },
+    "Eishin Flash (Meisterschaft)": {
+        "Track Proficiencies": "Turf",
+        "Distance Proficiencies": "Medium, Long",
+        "Style Proficiencies": "Late",
+        "Team Trials Tier": "S",
+        "Easiness Tier": "S",
+        "Overall Tier": "A",
+        "Veteran Score": ""
+    },
+    "Maruzensky (Hot Summer Night)": {
+        "Track Proficiencies": "Turf",
+        "Distance Proficiencies": "Mile",
+        "Style Proficiencies": "Front",
+        "Team Trials Tier": "S+",
+        "Easiness Tier": "S",
+        "Overall Tier": "S+",
+        "Veteran Score": ""
+    }
+}

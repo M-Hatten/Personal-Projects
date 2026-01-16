@@ -1,0 +1,6 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "c:\\Users\\miloh\\Downloads\\gson-main\\gson-main\\gson\\target\\gson-2.13.3-SNAPSHOT.jar"
+    ]
+}
