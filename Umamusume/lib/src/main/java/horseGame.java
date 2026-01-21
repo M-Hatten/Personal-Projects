@@ -13,8 +13,8 @@ Data will be kept in a nested hashmap for ease of access and will be stored to a
 This is mostly all just for practice to keep my skills sharp
 
 What I've learned while throwing this code together:
-- How to install Maven
-- How to install packages with Maven
+- How to install Gradle
+- How to install packages with Gradle
 - how to write a nested hashmap to a json file and read it back
 - How to create a finite state machine
 - How to naavigate nested hashmaps
@@ -22,7 +22,7 @@ What I've learned while throwing this code together:
 
 How to run this program:
 - open up two command prompt windows
-- set one to Umamusume
+- set one to the Umamusume folder
 - set the other to lib/build/libs
 - build in the Umamusume folder with "./gradlew build"
 - run the jar file in the libs folder with "java -jar lib.jar"
