@@ -232,5 +232,32 @@
         "Easiness Tier": "S",
         "Overall Tier": "S+",
         "Veteran Score": ""
+    },
+    "Manhatten Cafe (Creeping Shadow)": {
+        "Track Proficiencies": "Turf",
+        "Distance Proficiencies": "Long",
+        "Style Proficiencies": "Late",
+        "Team Trials Tier": "S",
+        "Easiness Tier": "A",
+        "Overall Tier": "S",
+        "Veteran Score": ""
+    },
+    "T.M. Opera O (O Sole Sou!)": {
+        "Track Proficiencies": "Turf",
+        "Distance Proficiencies": "Medium, Long",
+        "Style Proficiencies": "Pace, Late",
+        "Team Trials Tier": "A",
+        "Easiness Tier": "S",
+        "Overall Tier": "A",
+        "Veteran Score": ""
+    },
+    "Narita Taishin (Nevertheless)": {
+        "Track Proficiencies": "Turf",
+        "Distance Proficiencies": "Medium, Long",
+        "Style Proficiencies": "End",
+        "Team Trials Tier": "S+",
+        "Easiness Tier": "A",
+        "Overall Tier": "S",
+        "Veteran Score": ""
     }
 }

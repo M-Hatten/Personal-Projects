@@ -250,5 +250,14 @@
         "Easiness Tier": "S",
         "Overall Tier": "A",
         "Veteran Score": ""
+    },
+    "Narita Taishin (Nevertheless)": {
+        "Track Proficiencies": "Turf",
+        "Distance Proficiencies": "Medium, Long",
+        "Style Proficiencies": "End",
+        "Team Trials Tier": "S+",
+        "Easiness Tier": "A",
+        "Overall Tier": "S",
+        "Veteran Score": ""
     }
 }
