@@ -1,4 +1,5 @@
 /*
+ATTENTION: THIS CODE IS DEAD! PLEASE GO TO THE CODE IN umamusume/lib/src/main/java
 Hello to anyone reading this!
 This application is meant to help me track my characters in a mobile game I like to play
 
