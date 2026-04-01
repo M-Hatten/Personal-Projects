@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "BigApp", "BigApp", "{0BC72F0F-B19D-468E-ABF5-D22ADEFBB241}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MauiApp1", "BigApp\MauiApp1\MauiApp1.csproj", "{CAC950FF-DA8F-4480-89CB-4F982AFD1ACA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CrochetApp", "CrochetApp\CrochetApp.csproj", "{BDB0E3FB-C493-4C75-AF8C-B11FC4ECD792}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CAC950FF-DA8F-4480-89CB-4F982AFD1ACA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CAC950FF-DA8F-4480-89CB-4F982AFD1ACA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CAC950FF-DA8F-4480-89CB-4F982AFD1ACA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CAC950FF-DA8F-4480-89CB-4F982AFD1ACA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BDB0E3FB-C493-4C75-AF8C-B11FC4ECD792}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDB0E3FB-C493-4C75-AF8C-B11FC4ECD792}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDB0E3FB-C493-4C75-AF8C-B11FC4ECD792}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDB0E3FB-C493-4C75-AF8C-B11FC4ECD792}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{CAC950FF-DA8F-4480-89CB-4F982AFD1ACA} = {0BC72F0F-B19D-468E-ABF5-D22ADEFBB241}
+	EndGlobalSection
+EndGlobal
