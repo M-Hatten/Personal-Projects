@@ -18,7 +18,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FiberFreaks")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+cda75aa837151820581da79ee3acb38dd71a9500")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+ddecdf8fc403453ece0b8a3236adadd243695db5")]
 [assembly: System.Reflection.AssemblyProductAttribute("FiberFreaks")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FiberFreaks")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

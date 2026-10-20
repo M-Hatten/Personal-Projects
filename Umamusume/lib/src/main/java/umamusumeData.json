@@ -259,5 +259,77 @@
         "Easiness Tier": "A",
         "Overall Tier": "S",
         "Veteran Score": ""
+    },
+    "Grass Wonder (Saintly Jade Cleric)": {
+        "Track Proficiencies": "Turf",
+        "Distance Proficiencies": "Mile, Long",
+        "Style Proficiencies": "Pace, Late",
+        "Team Trials Tier": "A",
+        "Easiness Tier": "S+",
+        "Overall Tier": "A",
+        "Veteran Score": ""
+    },
+    "Oguri Cap (Starlight Beat)": {
+        "Track Proficiencies": "Turf",
+        "Distance Proficiencies": "Mile, Medium",
+        "Style Proficiencies": "Pace, Late",
+        "Team Trials Tier": "S+",
+        "Easiness Tier": "S+",
+        "Overall Tier": "S+",
+        "Veteran Score": ""
+    },
+    "Matikanetannhauser (Clippety Tippety Clop)": {
+        "Track Proficiencies": "Turf",
+        "Distance Proficiencies": "Medium, Long",
+        "Style Proficiencies": "Pace, Late",
+        "Team Trials Tier": "A",
+        "Easiness Tier": "A",
+        "Overall Tier": "A",
+        "Veteran Score": ""
+    },
+    "Kitasan Black (Gilden Shrine to Glory)": {
+        "Track Proficiencies": "Turf",
+        "Distance Proficiencies": "Medium, Long",
+        "Style Proficiencies": "Front",
+        "Team Trials Tier": "S+",
+        "Easiness Tier": "S",
+        "Overall Tier": "S+",
+        "Veteran Score": ""
+    },
+    "Maruzensky (Formula R)": {
+        "Track Proficiencies": "Turf",
+        "Distance Proficiencies": "Mile",
+        "Style Proficiencies": "Front",
+        "Team Trials Tier": "S",
+        "Easiness Tier": "S",
+        "Overall Tier": "S",
+        "Veteran Score": ""
+    },
+    "Satono Diamond (Natural Brilliance)": {
+        "Track Proficiencies": "Turf",
+        "Distance Proficiencies": "Medium, Long",
+        "Style Proficiencies": "Late",
+        "Team Trials Tier": "A",
+        "Easiness Tier": "S",
+        "Overall Tier": "A",
+        "Veteran Score": ""
+    },
+    "Nishino Flower (Layered Petals)": {
+        "Track Proficiencies": "Turf",
+        "Distance Proficiencies": "Sprint, Mile",
+        "Style Proficiencies": "Pace, Late",
+        "Team Trials Tier": "S",
+        "Easiness Tier": "A",
+        "Overall Tier": "S+",
+        "Veteran Score": ""
+    },
+    "Biwa Hayahide (pf Winning Equation)": {
+        "Track Proficiencies": "Turf",
+        "Distance Proficiencies": "Medium, Long",
+        "Style Proficiencies": "Pace",
+        "Team Trials Tier": "B",
+        "Easiness Tier": "S",
+        "Overall Tier": "B",
+        "Veteran Score": ""
     }
 }
